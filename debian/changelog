@@ -1,4 +1,4 @@
-ofono-ril-binder-plugin (1.0.13+gemian1) unstable; urgency=medium
+ofono-ril-binder-plugin (1.0.16+gemian) unstable; urgency=medium
 
   * Import into Gemian
   * Install libs to /usr/lib/${DEB_HOST_MULTIARCH}
